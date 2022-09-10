@@ -1,1 +1,1 @@
-a file that runs c through the preprocessor
+a  script that generates the assembly code of a C code and save it in an output file
