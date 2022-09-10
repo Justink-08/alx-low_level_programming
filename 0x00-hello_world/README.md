@@ -1,1 +1,1 @@
-a program that prints a statement
+A program that prints with a proper grammer
