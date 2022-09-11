@@ -1,1 +1,1 @@
-A program that assigns a random number to n
+A program that prints letters of the alphabets in lowercasw
