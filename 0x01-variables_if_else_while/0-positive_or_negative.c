@@ -1,5 +1,7 @@
+#include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
+
 /**
  * main - print last digit in random number
  *
@@ -7,9 +9,10 @@
  *
  * Return: Always 0 (Success)
  */
+
 int main(void)
 {
-	int n;
+	int n, last;
 
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
