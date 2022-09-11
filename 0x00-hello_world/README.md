@@ -1,1 +1,1 @@
-A program to display the size of a data type
+A script that generates an assembly code and save the output in a C file
