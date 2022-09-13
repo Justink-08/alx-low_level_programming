@@ -1,1 +1,1 @@
-A program that prints a combination of single digit number
+A program that prints all possible combination of four digits number
