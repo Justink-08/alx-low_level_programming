@@ -9,16 +9,16 @@
  *
  */
 
- int main(void)
+int main(void)
 {
 	int k, e, j;
 
-	k=48;
-	e=48;
-	j=48;
+	k = 48;
+	e = 48;
+	j = 48;
 
 	while (k < 58)
-	{	
+	{
 		e = k + 1;
 		while (e < 58)
 		{
@@ -44,9 +44,6 @@
 	}
 	
 	putchar(10);
-
-
+	
 	return (0);
-
-
 }
