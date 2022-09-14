@@ -1,18 +1,17 @@
 #include <stdio.h>
 
 /**
- * main - entry point
+ * main - print triple combos
  *
- * Description - prints all possible combination of three digits combination
+ * Description - prints all possible combination of three digits numbers
  *
- * return value (0)
+ * return: Always  (0) Success
  *
  */
 
  int main(void)
 {
-
-	int k, e , j;
+	int k, e, j;
 
 	k=48;
 	e=48;
@@ -21,8 +20,7 @@
 	while (k < 58)
 
 	{
-		
-		e= k + 1;
+		e = k + 1;
 		while (e < 58)
 	       {
 
