@@ -1,1 +1,1 @@
-a function that multiplies two values
+a function to print number 0 -9 and a new line
