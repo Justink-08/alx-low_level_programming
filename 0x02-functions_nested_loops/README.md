@@ -1,1 +1,1 @@
-This program teaches how to program nested loop
+A function that returns 1 as a value after checking small letters
