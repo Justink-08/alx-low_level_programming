@@ -1,1 +1,1 @@
-a function that prints the absolute value of a number
+a funtion thay prints the 9 time-twble
