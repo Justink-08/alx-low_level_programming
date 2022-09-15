@@ -3,6 +3,8 @@
 /*
  * main - a program that prints letter of the alphabets
  *
+ * description :a fuction that prints alphabets
+ *
  * return: Always (0) success
  *
  */
