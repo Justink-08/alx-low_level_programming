@@ -25,6 +25,6 @@ void print_alphabet_x10(void)
 	
 	x0++;
 	
-	_putchar('/n');
+	_putchar('\n');
 
-}
+}.c
