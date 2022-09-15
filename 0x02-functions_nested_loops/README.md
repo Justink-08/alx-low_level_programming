@@ -1,1 +1,1 @@
-A function that returns 1 as a value after checking small letters
+a function that checks for alphabetic character.
