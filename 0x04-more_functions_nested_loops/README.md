@@ -1,1 +1,1 @@
-a function that prints all the digits from 0-9
+a function that multiplies two values
