@@ -1,1 +1,1 @@
-a function that checks for uppercase and return 1 as a value
+a function that prints all the digits from 0-9
