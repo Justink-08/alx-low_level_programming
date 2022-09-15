@@ -1,37 +1,23 @@
-#include "justink.h"
+#include "main.h"
 
 /**
- *
- *  * main - Entry point
- *
- *   *
- *
- *    * Return: Always 0 (Success)
- *
- *     */
+* main - print putchar
+* Return: always 0
+*/
 
 int main(void)
-
 {
+_putchar('_');
+_putchar('p');
+_putchar('u');
+_putchar('t');
+_putchar('c');
+_putchar('h');
+_putchar('a');
+_putchar('r');
+_putchar('\n');
+3 / 11
 
-		char *ke = "justink";
-
-
-
-			while (*ke)
-
-					{
-
-								_putchar(*ke);
-
-										ke++;
-
-											}
-
-				_putchar('\n');
-
-
-
-					return (0);
+return (0);
 
 }
