@@ -1,1 +1,1 @@
-a function that uses _putchar
+a function that checks for uppercase and return 1 as a value
