@@ -1,30 +1,19 @@
 #include "main.h"
 
-/*
- * main -  a function that prints 10 times the alphabet
- *
- * description: A fuction to multiply alphabets by 10
- *
- * return: Always (0) success
- *
- * */
-
+/**
+* print_alphabet_x10 - function to print abc 10 times
+*
+* Return: 0
+*/
 void print_alphabet_x10(void)
 {
-
-	int x, x0;
-
-	x0 = 0;
-
-	while (x0 = 10)
+	char c, i;
+	for (i = 0; i <= 9; i++)
 	{
-		for (x ='a'; x <='z'; x++)
+		for (c = 'a'; c <= 'z'; c++)
 		{
-			_putchar(x);
+			_putchar(c);
 		}
-		
-		x0++;
-		
-		_putchar('\n');
+	       	_putchar('\n');
 	}
 }
