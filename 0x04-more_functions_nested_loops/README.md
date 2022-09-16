@@ -1,1 +1,1 @@
-a function to print number 0 -9 and a new line
+a function that print number wxcept 2 and 4
