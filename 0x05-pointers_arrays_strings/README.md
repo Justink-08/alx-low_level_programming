@@ -1,1 +1,1 @@
-a function that prints a string to stdout
+a function that prints n ekements of an array of integers
