@@ -1,1 +1,1 @@
-a function that takes a pointer to an int
+a function that prints a string to stdout
