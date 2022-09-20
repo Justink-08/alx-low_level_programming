@@ -1,1 +1,1 @@
-a function that prints number 0-9 except 2 and 4
+a function that prints the numbers 0-9
