@@ -1,1 +1,1 @@
-a function to concatenate two strings
+a function that concatenates two strings.
