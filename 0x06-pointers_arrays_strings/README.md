@@ -1,1 +1,1 @@
-A function that prints arrays, pointers and strings
+a function to concatenate two strings
