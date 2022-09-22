@@ -1,1 +1,1 @@
-a function that encodes a string in 1337
+adding a single code line to a function
