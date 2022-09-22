@@ -1,1 +1,1 @@
-a function to reverse the content of an array
+a function that changes all lowercase to uppercase character
