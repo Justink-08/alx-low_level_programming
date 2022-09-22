@@ -1,1 +1,1 @@
-a function that changes all lowercase to uppercase character
+a function that encodes a string in 1337
