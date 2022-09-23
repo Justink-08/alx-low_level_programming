@@ -1,1 +1,1 @@
-A program that prints all possible combination of four digits number
+a function that assigns a random number to the varuable n
