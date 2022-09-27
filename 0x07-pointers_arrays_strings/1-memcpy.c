@@ -2,12 +2,11 @@
 
 /**
 * *_memcpy - copies a memory area
-* @*dest   - where the content would be copoed to
-* @*src - where yo copy from
-* @n - the size of memory
+* @dest:where the content would be copoed to
+* @src:where yo copy from
+* @n: the size of memory
 *
-*
-* Return : a pointer to destination
+* Return:  pointer to destination
 */
 char *_memcpy(char *dest, char *src, unsigned int n)
 {
@@ -18,6 +17,6 @@ char *_memcpy(char *dest, char *src, unsigned int n)
 		dest[i] = src[i];
 	}
 
-	return (dest)
+	return (dest);
 }
 
