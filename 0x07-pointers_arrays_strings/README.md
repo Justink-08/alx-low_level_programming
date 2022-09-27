@@ -1,1 +1,1 @@
-a funxtion that copies the char b to the memory address of s
+a function that copies the src to a dest
